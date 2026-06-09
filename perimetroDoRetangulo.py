@@ -1,0 +1,5 @@
+print("Perímetro do retângulo")
+base = int(input("Digite a base do retângulo: "))
+altura = int(input("Digite a Altura do retângulo: "))
+perimetro = 2 * (base + altura) 
+print(f"A perímetro do retângulo: {perimetro}")
